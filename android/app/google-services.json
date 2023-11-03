@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1001071502369",
+    "firebase_url": "https://summer-project-6fcb7-default-rtdb.firebaseio.com",
+    "project_id": "summer-project-6fcb7",
+    "storage_bucket": "summer-project-6fcb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001071502369:android:7fc5abff04878fd49eef60",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001071502369-t84vro3qu1g6m4o0t6nckqesvujeppbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8bS9an1nHfZsjLBuCCZ_9rMJj_eXhJQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001071502369-t84vro3qu1g6m4o0t6nckqesvujeppbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
